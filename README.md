@@ -5,3 +5,6 @@
 </a>
 
 Cumulation of works for AI Trading Nanodegree
+
+
+#
